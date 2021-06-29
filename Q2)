@@ -1,4 +1,4 @@
-numList = [10, 15, 25, 62, 76, 12, 17, 13]
+numList = [15, 10, 17, 64, 77, 16, 14, 43]
 i=0
 while i < len(numList)-1:
     print(numList[i], "+", numList[i+1], "=", numList[i]+numList[i+1])
